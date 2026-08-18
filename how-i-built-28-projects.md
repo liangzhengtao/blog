@@ -36,7 +36,7 @@ npx commit-ai
 
 ### The Knowledge Base
 
-**awesome-ai-rules** — 20 production-ready rules for AI coding assistants. Copy-paste a rule file and your AI instantly writes better code.
+**awesome-ai-rules** — 20 production rules for AI coding assistants. Copy-paste a rule file and your AI instantly writes better code.
 
 **awesome-mcp-servers** — 9 verified MCP servers for Cursor, Claude Code, and Kimi Code.
 

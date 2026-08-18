@@ -57,7 +57,7 @@ I spent the last week building 28 open source projects focused on AI developer t
 **What I built:**
 - `vibe-check` — CLI tool that scores how AI-friendly your project is (npx vibe-check)
 - `commit-ai` — AI-powered commit message generator (no API key needed)
-- `awesome-ai-rules` — 20 production-ready rules for Cursor, Claude Code, Kimi Code
+- `awesome-ai-rules` — 20 production rules for Cursor, Claude Code, Kimi Code
 - `awesome-mcp-servers` — 9 verified MCP servers
 - `awesome-interview-skills` — 14 skills for landing your dream job
 - `build-your-own-x-cn` — Chinese version of build-your-own-x (10 tutorials)
@@ -114,7 +114,7 @@ I built 28 open source projects focused on AI developer tools and learning resou
 Highlights:
 - vibe-check: CLI tool that scores how AI-friendly your project is
 - commit-ai: AI-powered commit message generator (no API key needed)
-- awesome-ai-rules: 20 production-ready rules for AI coding assistants
+- awesome-ai-rules: 20 production rules for AI coding assistants
 - awesome-interview-skills: 14 skills for landing your dream job
 - build-your-own-x-cn: Chinese version of build-your-own-x
 

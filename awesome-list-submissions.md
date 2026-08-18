@@ -15,7 +15,7 @@ Submit to: https://github.com/sindresorhus/awesome-chatgpt
 
 **Entry:**
 ```markdown
-- [awesome-prompts](https://github.com/liangzhengtao/awesome-prompts) - 285+ battle-tested AI prompts for developers, creators, and professionals.
+- [awesome-prompts](https://github.com/liangzhengtao/awesome-prompts) - 285+ tried-and-true AI prompts for developers, creators, and professionals.
 ```
 
 ## 3. awesome-developer-tools
@@ -34,7 +34,7 @@ Submit to: https://github.com/open-source-ideas/open-source-ideas
 
 **Entry:**
 ```markdown
-- [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) - 20 production-ready AI coding rules for Cursor, Claude Code, Kimi Code.
+- [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) - 20 production AI coding rules for Cursor, Claude Code, Kimi Code.
 ```
 
 ## 5. awesome-npm
