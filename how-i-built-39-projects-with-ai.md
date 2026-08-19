@@ -146,7 +146,7 @@ AI 帮我生成了大量内容，但最终的质量把控在我。每一行代�
 
 ### 3. 去 AI 味很重要
 
-AI 生成的内容有明显的"味道"：comprehensive、best practices、leverage 这些词用得太多。我花了不少时间把这些替换成更自然的表达。
+AI 生成的内容有明显的"味道"：complete、proven patterns、use 这些词用得太多。我花了不少时间把这些替换成更自然的表达。
 
 ### 4. 中英双语是加分项
 
